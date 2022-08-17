@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Alex Simões",
+        "cpf": "00000000041",
+        "email": "alex@hotmail.com",
+        "whatsapp": "83999999999",
+        "address": {
+            "postalcode": "58255000",
+            "street": "Rua do Osvaldo",
+            "number": "111",
+            "details": "Apt 222",
+            "district": "centro",
+            "city_state": "Belém/PB"
+        },
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Charles do Bronx",
+        "cpf": "0000000AA41",
+        "email": "charles@hotmail.com",
+        "whatsapp": "83999999229",
+        "address": {
+            "postalcode": "58200000",
+            "street": "Rua do Josefildo",
+            "number": "111",
+            "details": "Apt 222",
+            "district": "centro",
+            "city_state": "Guarabira/PB"
+        },
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Alex Simões",
+        "cpf": "00000000041",
+        "email": "alex.com.br",
+        "whatsapp": "83999999999",
+        "address": {
+            "postalcode": "58255000",
+            "street": "Rua do Osvaldo",
+            "number": "111",
+            "details": "Apt 222",
+            "district": "centro",
+            "city_state": "Belém/PB"
+        },
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
